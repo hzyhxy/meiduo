@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'verify.apps.VerifyConfig',
     'oauth.apps.OauthConfig',
     'address.apps.AddressConfig',
+    'content.apps.ContentConfig',
 ]
 
 MIDDLEWARE = [
@@ -234,3 +235,6 @@ EMAIL_HOST_USER = '1285155212@qq.com' # 授权的邮箱
 EMAIL_HOST_PASSWORD = 'girmtwyniufzjafc' # 邮箱授权时获得的密码，非注册登录密码
 EMAIL_FROM = '美多商城<1285155212@qq.com>' # 发件人抬头
 EMAIL_VERIFY_URL = 'http://www.meiduo.site:8000/emails/verification/'
+
+# 指定自定义的Django文件存储类
+DEFAULT_FILE_STORAGE = 'meiduo_mall.utils.fastdfs.fastdfsstorage.FastDFSStorage'
