@@ -84,4 +84,5 @@ class ListView(View):
             'total_page': total_page, # 总页数
             'page_num': page_num, # 当前页码
         }
+        print(1)
         return render(request, 'list.html', context)
