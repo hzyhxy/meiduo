@@ -1,5 +1,5 @@
 from django.core.files.storage import Storage
-
+from django.conf import settings
 class FastDFSStorage(Storage):
     def _open(self):
         pass
@@ -11,4 +11,4 @@ class FastDFSStorage(Storage):
         :param name:数据中存储的路径
         :return:
         '''
-        return 'http://192.168.108.132:8888/' + name
+        return 'http://'+settings.HOST+':8888/' + name

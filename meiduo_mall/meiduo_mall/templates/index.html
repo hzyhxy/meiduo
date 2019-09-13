@@ -17,15 +17,15 @@
         <div class="header">
             <div class="welcome fl">欢迎来到美多商城!</div>
             <div class="fr">
-                <div v-if="username" class="login_btn fl">
+                <div class="login_btn fl" v-if="username">
                     欢迎您：<em>[[ username ]]</em>
                     <span>|</span>
-                    <a @click="logout">退出</a>
+                    <a href="/logout/">退出</a>
                 </div>
                 <div v-else class="login_btn fl">
-                    <a href="login.html">登录</a>
+                    <a href="/login/">登录</a>
                     <span>|</span>
-                    <a href="register.html">注册</a>
+                    <a href="/register/">注册</a>
                 </div>
                 <div class="user_link fl">
                     <span>|</span>
@@ -40,9 +40,9 @@
     </div>
 
     <div class="search_bar clearfix">
-        <a href="index.html" class="logo fl"><img src="images/logo.png"></a>
+        <a href="index.html" class="logo fl"><img src="../static/images/logo.png"></a>
         <div class="search_wrap fl">
-            <form method="get" action="/search.html" class="search_con">
+            <form method="get" action="/search" class="search_con">
                 <input type="text" class="input_text fl" name="q" placeholder="搜索商品">
                 <input type="submit" class="input_btn fr" name="" value="搜索">
             </form>
@@ -60,22 +60,22 @@
 
             <ul class="cart_goods_show">
                 <li>
-                    <img src="images/goods/goods001.jpg" alt="商品图片">
+                    <img src="../static/images/goods/goods001.jpg" alt="商品图片">
                     <h4>商品名称手机</h4>
                     <div>4</div>
                 </li>
                 <li>
-                    <img src="images/goods/goods002.jpg" alt="商品图片">
+                    <img src="../static/images/goods/goods002.jpg" alt="商品图片">
                     <h4>商品名称手机</h4>
                     <div>5</div>
                 </li>
                 <li>
-                    <img src="images/goods/goods003.jpg" alt="商品图片">
+                    <img src="../static/images/goods/goods003.jpg" alt="商品图片">
                     <h4>商品名称手机</h4>
                     <div>6</div>
                 </li>
                 <li>
-                    <img src="images/goods/goods003.jpg" alt="商品图片">
+                    <img src="../static/images/goods/goods004.jpg" alt="商品图片">
                     <h4>商品名称手机</h4>
                     <div>6</div>
                 </li>
@@ -304,6 +304,8 @@
         <p>电话：010-****888    京ICP备*******8号</p>
     </div>
     </div>
-    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript" src="../static/js/slide.js"></script>
+    <script type="text/javascript" src="../static/js/common.js"></script>
+    <script type="text/javascript" src="../static/js/index.js"></script>
 </body>
 </html>

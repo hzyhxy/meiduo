@@ -7688,3 +7688,1050 @@ WARNING 2019-09-10 21:46:56,527 base 152 Not Found: /carts/simple/
 WARNING 2019-09-10 21:46:56,533 base 152 Not Found: /hot/116/
 WARNING 2019-09-10 21:46:56,534 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
 WARNING 2019-09-10 21:46:56,535 basehttp 124 "GET /hot/116/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:04:09,316 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+WARNING 2019-09-11 09:04:09,346 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 09:04:09,353 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-11 09:04:09,359 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 5693
+WARNING 2019-09-11 09:04:09,360 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 09:04:09,366 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 09:04:09,367 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 5723
+WARNING 2019-09-11 09:04:09,367 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 5723
+WARNING 2019-09-11 09:04:09,373 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 09:04:09,373 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5723
+WARNING 2019-09-11 09:04:09,375 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5681
+INFO 2019-09-11 09:04:37,815 basehttp 124 "GET /index HTTP/1.1" 301 0
+WARNING 2019-09-11 09:04:37,990 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 09:04:37,991 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5681
+WARNING 2019-09-11 09:04:38,046 base 152 Not Found: /favicon.ico
+WARNING 2019-09-11 09:04:38,046 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 5663
+INFO 2019-09-11 09:04:44,352 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+WARNING 2019-09-11 09:04:44,493 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:04:44,497 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:04:44,498 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
+WARNING 2019-09-11 09:04:44,499 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:04:47,489 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 102111
+WARNING 2019-09-11 09:04:47,579 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:04:47,580 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
+WARNING 2019-09-11 09:04:47,585 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:04:47,585 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:04:48,578 basehttp 124 "GET /list/115/1/?sort=hot HTTP/1.1" 200 102069
+WARNING 2019-09-11 09:04:48,670 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:04:48,675 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:04:48,675 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
+WARNING 2019-09-11 09:04:48,676 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:04:49,491 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+WARNING 2019-09-11 09:04:49,575 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:04:49,581 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:04:49,581 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
+WARNING 2019-09-11 09:04:49,583 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:04:53,996 basehttp 124 "GET /list/115/2/?sort=default HTTP/1.1" 200 102098
+WARNING 2019-09-11 09:04:54,084 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:04:54,091 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:04:54,091 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
+WARNING 2019-09-11 09:04:54,092 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:04:55,632 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:04:55,722 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:04:55,729 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:04:55,729 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5669
+WARNING 2019-09-11 09:04:55,730 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5654
+INFO 2019-09-11 09:16:57,257 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:16:57,406 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:16:57,412 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:16:57,413 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5852
+WARNING 2019-09-11 09:16:57,413 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5837
+WARNING 2019-09-11 09:17:03,367 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 09:17:33,588 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:17:33,651 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:17:33,745 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:17:33,750 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:17:33,750 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5854
+WARNING 2019-09-11 09:17:33,751 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5839
+INFO 2019-09-11 09:17:51,791 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:17:51,833 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:17:51,928 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:17:51,935 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:17:51,935 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5854
+WARNING 2019-09-11 09:17:51,937 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5839
+WARNING 2019-09-11 09:18:39,331 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:18:39,332 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5839
+WARNING 2019-09-11 09:20:01,302 base 152 Not Found: /hot/115/
+WARNING 2019-09-11 09:20:01,303 basehttp 124 "GET /hot/115/ HTTP/1.1" 404 5839
+INFO 2019-09-11 09:20:06,040 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 578
+WARNING 2019-09-11 09:20:07,974 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 09:20:10,870 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:20:10,913 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:20:10,998 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:20:10,999 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:20:11,007 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 578
+INFO 2019-09-11 09:20:26,962 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:20:27,010 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:20:27,109 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:20:27,111 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:20:27,117 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 578
+INFO 2019-09-11 09:20:34,337 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:20:34,376 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:20:34,478 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:20:34,480 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:20:34,486 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 578
+INFO 2019-09-11 09:21:48,927 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:21:48,985 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:21:49,064 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:21:49,066 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:21:49,073 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 578
+INFO 2019-09-11 09:25:13,483 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:25:13,584 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:25:13,645 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:25:13,648 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:25:13,654 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 583
+INFO 2019-09-11 09:25:19,634 basehttp 124 "GET /list/115/3/?sort=default HTTP/1.1" 200 101477
+WARNING 2019-09-11 09:25:19,747 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:25:19,775 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:25:19,778 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:25:19,783 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 583
+INFO 2019-09-11 09:25:21,560 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 102111
+WARNING 2019-09-11 09:25:21,676 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:25:21,712 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:25:21,714 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:25:21,731 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 583
+INFO 2019-09-11 09:27:32,767 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 102111
+WARNING 2019-09-11 09:27:32,852 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:27:32,918 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:27:32,921 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+ERROR 2019-09-11 09:27:32,926 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 104, in get
+    return JsonResponse({'code': 0, 'errmsg': 'ok', 'hot_sku_list': hot_sku_list})
+NameError: name 'hot_sku_list' is not defined
+ERROR 2019-09-11 09:27:32,982 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 82467
+ERROR 2019-09-11 09:27:49,381 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 104, in get
+    return JsonResponse({'code': 0, 'errmsg': 'ok', 'hot_sku_list': hot_sku_list})
+NameError: name 'hot_sku_list' is not defined
+ERROR 2019-09-11 09:27:49,425 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 82522
+INFO 2019-09-11 09:28:37,901 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 102111
+WARNING 2019-09-11 09:28:37,977 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 09:28:38,059 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:28:38,062 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:28:38,069 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-11 09:46:07,481 basehttp 124 "GET /list/115/1/?sort=hot HTTP/1.1" 200 102069
+WARNING 2019-09-11 09:46:07,596 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 09:46:07,598 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5850
+INFO 2019-09-11 09:46:07,603 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-11 12:28:19,741 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+INFO 2019-09-11 12:28:19,755 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2019-09-11 12:28:19,770 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 12:28:19,776 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-11 12:28:19,777 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 5874
+WARNING 2019-09-11 12:28:19,782 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 12:28:19,784 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:28:19,789 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 12:28:19,796 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:28:19,796 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:28:19,796 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:28:19,797 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:28:20,459 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:28:20,460 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:28:20,493 base 152 Not Found: /favicon.ico
+WARNING 2019-09-11 12:28:20,494 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 5844
+WARNING 2019-09-11 12:38:24,204 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 12:44:45,593 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+WARNING 2019-09-11 12:44:45,617 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-11 12:44:45,619 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 12:44:45,620 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 5874
+WARNING 2019-09-11 12:44:45,620 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:44:45,652 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 12:44:45,660 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 12:44:45,660 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:44:45,661 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:44:45,670 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:44:45,671 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:44:45,706 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 12:44:45,733 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:44:45,733 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+INFO 2019-09-11 12:49:02,176 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+WARNING 2019-09-11 12:49:02,198 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 12:49:02,207 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-11 12:49:02,208 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 5874
+WARNING 2019-09-11 12:49:02,209 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:49:02,225 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:49:02,230 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 12:49:02,230 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:49:02,231 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:49:02,259 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 12:49:02,260 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:49:02,308 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:49:02,309 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:49:02,358 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 12:50:34,852 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+INFO 2019-09-11 12:50:34,871 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-11 12:50:34,872 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 121
+INFO 2019-09-11 12:50:34,875 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-09-11 12:50:34,876 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+WARNING 2019-09-11 12:50:34,886 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 12:50:34,891 base 152 Not Found: /index/images/goods/goods001.jpg
+INFO 2019-09-11 12:50:34,892 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+WARNING 2019-09-11 12:50:34,892 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 5874
+WARNING 2019-09-11 12:50:34,893 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 5904
+INFO 2019-09-11 12:50:34,894 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-11 12:50:34,896 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2019-09-11 12:50:34,904 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:50:34,910 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 12:50:34,910 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:50:34,910 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:50:34,922 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 12:50:34,922 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 12:50:34,959 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 12:50:34,960 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5904
+INFO 2019-09-11 12:50:34,962 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2019-09-11 12:50:34,979 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 12:50:34,979 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 12:50:35,042 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 13:15:45,551 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+WARNING 2019-09-11 13:15:45,574 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 13:15:45,582 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-11 13:15:45,583 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 5874
+WARNING 2019-09-11 13:15:45,583 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 13:15:45,635 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 13:15:45,639 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 13:15:45,641 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 13:15:45,642 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 13:15:45,642 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 5904
+WARNING 2019-09-11 13:15:45,643 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 5862
+WARNING 2019-09-11 13:15:45,708 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 14:37:09,181 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+WARNING 2019-09-11 14:37:09,214 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-11 14:37:09,224 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-11 14:37:09,225 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6163
+WARNING 2019-09-11 14:37:09,226 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6193
+WARNING 2019-09-11 14:37:09,245 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 14:37:09,250 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-11 14:37:09,251 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6151
+WARNING 2019-09-11 14:37:09,251 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6193
+WARNING 2019-09-11 14:37:09,288 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-11 14:37:09,289 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6193
+WARNING 2019-09-11 14:37:09,337 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-11 14:37:09,338 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6151
+WARNING 2019-09-11 14:37:09,415 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 14:37:13,380 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 14:37:27,157 basehttp 124 "GET /list/115/1 HTTP/1.1" 301 0
+INFO 2019-09-11 14:37:27,382 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+INFO 2019-09-11 14:37:27,398 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-11 14:37:27,398 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-11 14:37:27,405 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-11 14:37:27,424 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 1938
+INFO 2019-09-11 14:37:27,425 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-09-11 14:37:27,432 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+WARNING 2019-09-11 14:37:27,456 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 14:37:27,562 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 14:37:27,566 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6139
+INFO 2019-09-11 14:37:27,572 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+WARNING 2019-09-11 14:37:28,569 base 152 Not Found: /detail/3/
+WARNING 2019-09-11 14:37:28,570 basehttp 124 "GET /detail/3/ HTTP/1.1" 404 6127
+ERROR 2019-09-11 14:38:24,796 exception 135 Internal Server Error: /detail/3/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 157, in get
+    return render(request, 'detail.html', context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\backends\jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\templates\detail.html", line 199, in top-level template code
+    <dd>{{ spu.desc_detail|safe }}</dd>
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'spu' is undefined
+ERROR 2019-09-11 14:38:25,191 basehttp 124 "GET /detail/3/ HTTP/1.1" 500 177267
+ERROR 2019-09-11 14:40:05,199 exception 135 Internal Server Error: /detail/3/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 157, in get
+    return render(request, 'detail.html', context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\backends\jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\templates\detail.html", line 199, in top-level template code
+    <dd>{{ spu.desc_detail|safe }}</dd>
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'spu' is undefined
+ERROR 2019-09-11 14:40:05,587 basehttp 124 "GET /detail/3/ HTTP/1.1" 500 177809
+WARNING 2019-09-11 14:40:19,885 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+ERROR 2019-09-11 14:40:23,639 exception 135 Internal Server Error: /detail/6/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 157, in get
+    return render(request, 'detail.html', context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\backends\jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\templates\detail.html", line 199, in top-level template code
+    <dd>{{ spu.desc_detail|safe }}</dd>
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'spu' is undefined
+ERROR 2019-09-11 14:40:24,035 basehttp 124 "GET /detail/6/ HTTP/1.1" 500 177706
+INFO 2019-09-11 14:43:22,653 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+INFO 2019-09-11 14:43:22,670 basehttp 124 "GET /static/js/list.js HTTP/1.1" 304 0
+WARNING 2019-09-11 14:43:22,707 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-11 14:43:22,793 base 152 Not Found: /carts/simple/
+WARNING 2019-09-11 14:43:22,796 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6137
+INFO 2019-09-11 14:43:22,804 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+ERROR 2019-09-11 14:43:26,746 exception 135 Internal Server Error: /detail/3/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 157, in get
+    return render(request, 'detail.html', context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\backends\jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\templates\detail.html", line 199, in top-level template code
+    <dd>{{ spu.desc_detail|safe }}</dd>
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'spu' is undefined
+ERROR 2019-09-11 14:43:27,130 basehttp 124 "GET /detail/3/ HTTP/1.1" 500 177686
+ERROR 2019-09-11 14:43:40,811 exception 135 Internal Server Error: /detail/3/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\content\views.py", line 157, in get
+    return render(request, 'detail.html', context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\template\backends\jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\templates\detail.html", line 199, in top-level template code
+    <dd>{{ spu.desc_detail|safe }}</dd>
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\jinja2\environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'spu' is undefined
+ERROR 2019-09-11 14:43:41,190 basehttp 124 "GET /detail/3/ HTTP/1.1" 500 177279
+INFO 2019-09-11 14:45:00,384 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101556
+INFO 2019-09-11 14:45:00,409 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-11 14:45:00,409 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 121
+INFO 2019-09-11 14:45:00,413 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-09-11 14:45:00,417 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-11 14:45:00,418 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-11 14:45:00,419 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-09-11 14:45:00,422 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-11 14:45:00,425 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-11 14:45:00,429 basehttp 124 "GET /static/js/detail.js HTTP/1.1" 200 6480
+INFO 2019-09-11 14:45:00,432 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-09-11 14:45:00,452 basehttp 124 "GET /static/images/cat.jpg HTTP/1.1" 200 4333
+WARNING 2019-09-11 14:45:00,463 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 14:45:00,463 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-09-11 14:58:03,812 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101556
+INFO 2019-09-11 14:58:03,832 basehttp 124 "GET /static/js/detail.js HTTP/1.1" 304 0
+WARNING 2019-09-11 14:58:03,916 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 14:58:11,847 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101556
+WARNING 2019-09-11 14:58:11,897 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 15:01:31,298 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101556
+INFO 2019-09-11 15:01:31,313 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-11 15:01:31,318 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 121
+INFO 2019-09-11 15:01:31,318 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-09-11 15:01:31,321 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-11 15:01:31,322 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-11 15:01:31,323 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-09-11 15:01:31,329 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-11 15:01:31,329 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-11 15:01:31,330 basehttp 124 "GET /static/js/detail.js HTTP/1.1" 200 6480
+INFO 2019-09-11 15:01:31,334 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-09-11 15:01:31,350 basehttp 124 "GET /static/images/cat.jpg HTTP/1.1" 200 4333
+INFO 2019-09-11 15:01:31,360 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2019-09-11 15:01:31,407 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-11 15:20:31,190 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101556
+INFO 2019-09-11 15:20:31,214 basehttp 124 "GET /static/js/detail.js HTTP/1.1" 304 0
+WARNING 2019-09-11 15:20:31,359 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-12 10:52:23,937 base 152 Not Found: /
+WARNING 2019-09-12 10:52:23,947 basehttp 124 "GET / HTTP/1.1" 404 6437
+WARNING 2019-09-12 10:52:24,017 base 152 Not Found: /favicon.ico
+WARNING 2019-09-12 10:52:24,017 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 6488
+INFO 2019-09-12 10:52:30,695 basehttp 124 "GET /index HTTP/1.1" 301 0
+INFO 2019-09-12 10:52:30,987 basehttp 124 "GET /index/ HTTP/1.1" 200 109201
+INFO 2019-09-12 10:52:31,011 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+WARNING 2019-09-12 10:52:31,020 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-12 10:52:31,028 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-12 10:52:31,029 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-12 10:52:31,030 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+INFO 2019-09-12 10:52:31,030 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-09-12 10:52:31,031 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+WARNING 2019-09-12 10:52:31,041 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-12 10:52:31,047 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-12 10:52:31,047 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-12 10:52:31,048 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-12 10:52:31,065 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-12 10:52:31,066 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-12 10:52:31,197 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-12 10:52:31,198 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-12 10:52:46,598 base 152 Not Found: /search.html
+WARNING 2019-09-12 10:52:46,598 basehttp 124 "GET /search.html?q=apple HTTP/1.1" 404 6496
+INFO 2019-09-12 10:53:54,187 basehttp 124 "GET /search?q=apple HTTP/1.1" 301 0
+INFO 2019-09-12 10:53:54,404 basehttp 124 "GET /search/?q=apple HTTP/1.1" 200 8694
+INFO 2019-09-12 10:53:54,414 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-12 10:53:54,422 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-09-12 10:53:54,451 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+WARNING 2019-09-13 22:22:46,066 base 152 Not Found: /
+WARNING 2019-09-13 22:22:46,067 basehttp 124 "GET / HTTP/1.1" 404 6431
+WARNING 2019-09-13 22:23:16,563 base 152 Not Found: /
+WARNING 2019-09-13 22:23:16,564 basehttp 124 "GET / HTTP/1.1" 404 6437
+WARNING 2019-09-13 22:23:16,672 base 152 Not Found: /favicon.ico
+WARNING 2019-09-13 22:23:16,673 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 6488
+INFO 2019-09-13 22:23:27,481 basehttp 124 "GET /index/ HTTP/1.1" 200 109196
+INFO 2019-09-13 22:23:27,500 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2019-09-13 22:23:27,508 basehttp 124 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2019-09-13 22:23:27,514 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-09-13 22:23:27,517 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2019-09-13 22:23:27,521 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2019-09-13 22:23:27,522 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 304 0
+WARNING 2019-09-13 22:23:27,537 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:23:27,547 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:23:27,549 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:23:27,552 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 304 0
+WARNING 2019-09-13 22:23:27,555 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:23:27,612 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:23:27,606 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:23:27,627 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:23:27,629 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-13 22:23:27,630 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:23:27,636 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:23:27,651 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 304 0
+WARNING 2019-09-13 22:23:39,052 base 152 Not Found: /index/login.html
+WARNING 2019-09-13 22:23:39,054 basehttp 124 "GET /index/login.html HTTP/1.1" 404 6503
+INFO 2019-09-13 22:24:37,072 basehttp 124 "GET /index/ HTTP/1.1" 200 109192
+WARNING 2019-09-13 22:24:37,111 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:24:37,121 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:24:37,122 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:24:37,122 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:24:37,142 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:24:37,147 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:24:37,156 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:24:37,157 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-13 22:24:37,157 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:24:37,160 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:24:44,196 basehttp 124 "GET /index/ HTTP/1.1" 200 109192
+WARNING 2019-09-13 22:24:44,238 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:24:44,249 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:24:44,257 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:24:44,264 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:24:44,283 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:24:44,281 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:24:44,273 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:24:44,285 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:24:44,303 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:24:44,304 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-13 22:24:46,450 base 152 Not Found: /index/login/
+WARNING 2019-09-13 22:24:46,452 basehttp 124 "GET /index/login/ HTTP/1.1" 404 6491
+INFO 2019-09-13 22:25:11,609 basehttp 124 "GET /index/ HTTP/1.1" 200 109193
+WARNING 2019-09-13 22:25:11,631 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:25:11,642 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:25:11,649 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:25:11,657 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:25:11,658 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:25:11,683 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:25:11,688 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:25:11,689 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:25:11,693 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:25:11,695 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+INFO 2019-09-13 22:25:13,331 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+INFO 2019-09-13 22:25:13,349 basehttp 124 "GET /static/js/common.js HTTP/1.1" 304 0
+INFO 2019-09-13 22:25:13,351 basehttp 124 "GET /static/images/logo02.png HTTP/1.1" 200 8466
+INFO 2019-09-13 22:25:13,356 basehttp 124 "GET /static/js/login.js HTTP/1.1" 200 1759
+INFO 2019-09-13 22:25:13,357 basehttp 124 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2019-09-13 22:25:13,361 basehttp 124 "GET /static/images/login_banner.png HTTP/1.1" 200 319312
+INFO 2019-09-13 22:25:13,371 basehttp 124 "GET /static/images/QQ-weixin.png HTTP/1.1" 200 1816
+INFO 2019-09-13 22:25:29,376 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+WARNING 2019-09-13 22:25:49,822 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+ERROR 2019-09-13 22:26:00,010 exception 135 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 32, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 124, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\client\default.py", line 478, in has_key
+    raise ConnectionInterrupted(connection=client, parent=e)
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10060 connecting to 192.168.108.132:6379. 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\users\views.py", line 80, in post
+    login(request, user)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\auth\__init__.py", line 140, in login
+    request.session.cycle_key()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\base.py", line 311, in cycle_key
+    self.create()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\cache.py", line 44, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\base.py", line 164, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\cache.py", line 71, in exists
+    return session_key and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\cache\backends\base.py", line 203, in __contains__
+    return self.has_key(key)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 39, in _decorator
+    raise e.parent
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\client\default.py", line 476, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\client.py", line 1307, in exists
+    return self.execute_command('EXISTS', *names)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\client.py", line 836, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\connection.py", line 1071, in get_connection
+    connection.connect()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\connection.py", line 543, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10060 connecting to 192.168.108.132:6379. 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+ERROR 2019-09-13 22:26:00,129 basehttp 124 "POST /login/ HTTP/1.1" 500 147075
+ERROR 2019-09-13 22:26:00,132 basehttp 124 "POST /login/ HTTP/1.1" 500 59
+ERROR 2019-09-13 22:26:18,483 exception 135 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 32, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 124, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\client\default.py", line 478, in has_key
+    raise ConnectionInterrupted(connection=client, parent=e)
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10060 connecting to 192.168.108.132:6379. 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\users\views.py", line 80, in post
+    login(request, user)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\auth\__init__.py", line 140, in login
+    request.session.cycle_key()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\base.py", line 311, in cycle_key
+    self.create()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\cache.py", line 44, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\base.py", line 164, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\cache.py", line 71, in exists
+    return session_key and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\cache\backends\base.py", line 203, in __contains__
+    return self.has_key(key)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 39, in _decorator
+    raise e.parent
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\client\default.py", line 476, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\client.py", line 1307, in exists
+    return self.execute_command('EXISTS', *names)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\client.py", line 836, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\connection.py", line 1071, in get_connection
+    connection.connect()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\connection.py", line 543, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10060 connecting to 192.168.108.132:6379. 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+ERROR 2019-09-13 22:26:18,541 basehttp 124 "POST /login/ HTTP/1.1" 500 147075
+WARNING 2019-09-13 22:27:23,751 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:29:51,138 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+WARNING 2019-09-13 22:29:51,305 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+ERROR 2019-09-13 22:30:19,900 exception 135 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 32, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 124, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\client\default.py", line 478, in has_key
+    raise ConnectionInterrupted(connection=client, parent=e)
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10060 connecting to 192.168.108.132:6379. 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\views\generic\base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\asus\Desktop\黑马\就业阶段二\day07\meiduo\meiduo_mall\meiduo_mall\apps\users\views.py", line 80, in post
+    login(request, user)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\auth\__init__.py", line 140, in login
+    request.session.cycle_key()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\base.py", line 311, in cycle_key
+    self.create()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\cache.py", line 44, in create
+    self._session_key = self._get_new_session_key()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\base.py", line 164, in _get_new_session_key
+    if not self.exists(session_key):
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\contrib\sessions\backends\cache.py", line 71, in exists
+    return session_key and (self.cache_key_prefix + session_key) in self._cache
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django\core\cache\backends\base.py", line 203, in __contains__
+    return self.has_key(key)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\cache.py", line 39, in _decorator
+    raise e.parent
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\django_redis\client\default.py", line 476, in has_key
+    return client.exists(key) == 1
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\client.py", line 1307, in exists
+    return self.execute_command('EXISTS', *names)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\client.py", line 836, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\connection.py", line 1071, in get_connection
+    connection.connect()
+  File "C:\Users\asus\Envs\django_py\lib\site-packages\redis\connection.py", line 543, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 10060 connecting to 192.168.108.132:6379. 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。.
+ERROR 2019-09-13 22:30:19,978 basehttp 124 "POST /login/ HTTP/1.1" 500 147075
+INFO 2019-09-13 22:32:04,329 basehttp 124 "POST /login/ HTTP/1.1" 302 0
+INFO 2019-09-13 22:32:04,770 basehttp 124 "GET /index/ HTTP/1.1" 200 109193
+WARNING 2019-09-13 22:32:04,800 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:32:04,809 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:32:04,809 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:32:04,809 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:32:04,829 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:32:04,842 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:32:04,847 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:32:04,848 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-13 22:32:04,849 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:32:04,849 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:34:02,338 basehttp 124 "GET /index/ HTTP/1.1" 200 109193
+WARNING 2019-09-13 22:34:02,374 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:34:02,378 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:34:02,379 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:34:02,379 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:34:02,399 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:34:02,399 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:34:02,407 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:34:02,407 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-13 22:34:02,408 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:34:02,408 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:34:05,824 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:38:34,208 basehttp 124 "GET /index/ HTTP/1.1" 200 109193
+WARNING 2019-09-13 22:38:34,245 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:38:34,253 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:38:34,254 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:38:34,255 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:38:34,271 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:38:34,285 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:38:34,299 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:38:34,300 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:38:34,302 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:38:34,304 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+WARNING 2019-09-13 22:38:34,373 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:38:34,478 base 152 Not Found: /index/js/index.js
+WARNING 2019-09-13 22:38:34,479 basehttp 124 "GET /index/js/index.js HTTP/1.1" 404 6506
+INFO 2019-09-13 22:39:47,273 basehttp 124 "GET /index/ HTTP/1.1" 200 109194
+WARNING 2019-09-13 22:39:47,315 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:39:47,320 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:39:47,321 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:39:47,322 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:39:47,335 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:39:47,348 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:39:47,349 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:39:47,358 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:39:47,366 base 152 Not Found: /js/index.js
+WARNING 2019-09-13 22:39:47,368 basehttp 124 "GET /js/index.js HTTP/1.1" 404 6488
+WARNING 2019-09-13 22:39:47,427 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:39:47,539 base 152 Not Found: /js/index.js
+WARNING 2019-09-13 22:39:47,540 basehttp 124 "GET /js/index.js HTTP/1.1" 404 6488
+INFO 2019-09-13 22:40:23,253 basehttp 124 "GET /index/ HTTP/1.1" 200 109203
+WARNING 2019-09-13 22:40:23,294 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:40:23,300 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:40:23,301 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:40:23,302 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:23,315 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:40:23,330 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:40:23,331 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:23,332 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:40:23,341 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1418
+WARNING 2019-09-13 22:40:23,446 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:40:23,727 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:40:23,741 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:40:23,741 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:40:23,752 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:40:23,762 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:40:23,763 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:23,764 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:23,766 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:40:31,418 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+WARNING 2019-09-13 22:40:31,538 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:40:40,362 basehttp 124 "POST /login/ HTTP/1.1" 302 0
+INFO 2019-09-13 22:40:40,778 basehttp 124 "GET /index/ HTTP/1.1" 200 109203
+WARNING 2019-09-13 22:40:40,815 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:40:40,819 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:40:40,820 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:40:40,822 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:40,842 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:40:40,843 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:40,864 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:40:40,865 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:40,922 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:40:41,349 base 152 Not Found: /index/images/logo.png
+WARNING 2019-09-13 22:40:41,356 base 152 Not Found: /index/images/goods/goods001.jpg
+WARNING 2019-09-13 22:40:41,370 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:40:41,371 basehttp 124 "GET /index/images/logo.png HTTP/1.1" 404 6518
+WARNING 2019-09-13 22:40:41,383 basehttp 124 "GET /index/images/goods/goods001.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:41,384 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:40:41,384 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:40:41,387 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:41:23,465 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:42:25,091 basehttp 124 "GET /index/ HTTP/1.1" 200 109223
+INFO 2019-09-13 22:42:25,123 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2019-09-13 22:42:25,126 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 304 0
+WARNING 2019-09-13 22:42:25,171 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:42:25,181 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:42:25,182 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:42:25,183 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+WARNING 2019-09-13 22:42:25,395 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:42:25,510 base 152 Not Found: /index/images/goods/goods002.jpg
+WARNING 2019-09-13 22:42:25,511 basehttp 124 "GET /index/images/goods/goods002.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:43:18,726 basehttp 124 "GET /index/ HTTP/1.1" 200 109243
+WARNING 2019-09-13 22:43:18,763 base 152 Not Found: /index/images/goods/goods003.jpg
+INFO 2019-09-13 22:43:18,767 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 304 0
+WARNING 2019-09-13 22:43:18,768 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:43:18,791 basehttp 124 "GET /static/images/goods/goods003.jpg HTTP/1.1" 200 8579
+WARNING 2019-09-13 22:43:18,905 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:43:19,065 base 152 Not Found: /index/images/goods/goods003.jpg
+WARNING 2019-09-13 22:43:19,066 basehttp 124 "GET /index/images/goods/goods003.jpg HTTP/1.1" 404 6548
+INFO 2019-09-13 22:44:10,411 basehttp 124 "GET /index/ HTTP/1.1" 200 109253
+INFO 2019-09-13 22:44:10,440 basehttp 124 "GET /static/images/goods/goods004.jpg HTTP/1.1" 200 6565
+WARNING 2019-09-13 22:44:10,637 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:51:35,474 basehttp 124 "GET /index/ HTTP/1.1" 200 109253
+WARNING 2019-09-13 22:51:35,659 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:57:34,055 basehttp 124 "GET /index/ HTTP/1.1" 200 109253
+WARNING 2019-09-13 22:57:34,164 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 22:59:02,172 basehttp 124 "GET /index/ HTTP/1.1" 200 124504
+WARNING 2019-09-13 22:59:02,310 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:59:02,640 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 22:59:02,642 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 22:59:56,525 basehttp 124 "GET /index/ HTTP/1.1" 200 124504
+WARNING 2019-09-13 22:59:56,674 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 22:59:56,973 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 22:59:56,975 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:00:06,443 basehttp 124 "GET /index/ HTTP/1.1" 200 124504
+WARNING 2019-09-13 23:00:06,530 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:00:06,838 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:00:06,839 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:01:06,518 basehttp 124 "GET /index/ HTTP/1.1" 200 109253
+INFO 2019-09-13 23:01:06,551 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-09-13 23:01:06,555 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 121
+INFO 2019-09-13 23:01:06,557 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-09-13 23:01:06,558 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-09-13 23:01:06,558 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-09-13 23:01:06,563 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-09-13 23:01:06,565 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-09-13 23:01:06,570 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-09-13 23:01:06,571 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-09-13 23:01:06,584 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1418
+INFO 2019-09-13 23:01:06,585 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-09-13 23:01:06,595 basehttp 124 "GET /static/images/goods/goods004.jpg HTTP/1.1" 200 6565
+INFO 2019-09-13 23:01:06,595 basehttp 124 "GET /static/images/goods/goods003.jpg HTTP/1.1" 200 8579
+INFO 2019-09-13 23:01:06,679 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2019-09-13 23:01:06,749 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:01:25,843 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:01:29,613 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+INFO 2019-09-13 23:01:29,627 basehttp 124 "GET /static/images/logo02.png HTTP/1.1" 200 8466
+INFO 2019-09-13 23:01:29,628 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-09-13 23:01:29,640 basehttp 124 "GET /static/js/login.js HTTP/1.1" 200 1759
+INFO 2019-09-13 23:01:29,647 basehttp 124 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2019-09-13 23:01:29,650 basehttp 124 "GET /static/images/login_banner.png HTTP/1.1" 200 319312
+INFO 2019-09-13 23:01:29,662 basehttp 124 "GET /static/images/QQ-weixin.png HTTP/1.1" 200 1816
+WARNING 2019-09-13 23:01:29,683 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:01:38,409 basehttp 124 "POST /login/ HTTP/1.1" 302 0
+INFO 2019-09-13 23:01:38,781 basehttp 124 "GET /index/ HTTP/1.1" 200 109253
+WARNING 2019-09-13 23:01:38,853 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:03:14,172 basehttp 124 "GET /index/ HTTP/1.1" 200 109400
+WARNING 2019-09-13 23:03:14,292 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:03:14,609 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:03:14,611 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:04:46,055 basehttp 124 "GET /index/ HTTP/1.1" 200 109399
+WARNING 2019-09-13 23:04:46,219 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:04:46,533 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:04:46,534 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:05:49,552 basehttp 124 "GET /index/ HTTP/1.1" 200 109397
+WARNING 2019-09-13 23:05:49,681 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:05:49,955 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:05:49,957 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:05:54,214 basehttp 124 "GET /logout/ HTTP/1.1" 302 0
+INFO 2019-09-13 23:05:54,225 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+WARNING 2019-09-13 23:05:54,348 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:06:07,068 basehttp 124 "GET /index/ HTTP/1.1" 200 109397
+WARNING 2019-09-13 23:06:07,137 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:06:07,534 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:06:07,534 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:06:09,582 basehttp 124 "GET /login/ HTTP/1.1" 200 3605
+WARNING 2019-09-13 23:06:09,638 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:06:18,686 basehttp 124 "POST /login/ HTTP/1.1" 302 0
+INFO 2019-09-13 23:06:19,052 basehttp 124 "GET /index/ HTTP/1.1" 200 109397
+WARNING 2019-09-13 23:06:19,135 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:06:19,428 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:06:19,429 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:06:40,480 basehttp 124 "GET /list/115/1 HTTP/1.1" 301 0
+INFO 2019-09-13 23:06:40,885 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+INFO 2019-09-13 23:06:40,918 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-09-13 23:06:40,945 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 1938
+INFO 2019-09-13 23:06:40,945 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-09-13 23:06:40,956 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+WARNING 2019-09-13 23:06:41,158 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:06:41,161 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:06:41,179 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:06:42,427 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101556
+INFO 2019-09-13 23:06:42,453 basehttp 124 "GET /static/images/cat.jpg HTTP/1.1" 200 4333
+INFO 2019-09-13 23:06:42,454 basehttp 124 "GET /static/js/detail.js HTTP/1.1" 200 6480
+WARNING 2019-09-13 23:06:54,410 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:11:19,073 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101270
+WARNING 2019-09-13 23:11:19,226 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:12:36,953 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101234
+WARNING 2019-09-13 23:12:37,078 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:14:41,646 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101256
+WARNING 2019-09-13 23:14:41,799 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:14:41,882 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:14:41,888 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:14:41,898 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:14:41,906 base 152 Not Found: /comment/3/
+WARNING 2019-09-13 23:14:41,909 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:14:41,912 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:14:41,920 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:14:42,041 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:16:57,229 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 101256
+WARNING 2019-09-13 23:16:57,375 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:16:57,532 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:16:57,538 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:16:57,554 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:16:57,566 base 152 Not Found: /comment/3/
+WARNING 2019-09-13 23:16:57,568 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:16:57,574 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:16:57,581 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:16:57,700 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2019-09-13 23:17:10,447 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:17:13,150 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 101263
+WARNING 2019-09-13 23:17:13,357 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:17:13,444 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:17:13,459 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:17:13,464 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:17:13,478 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:17:13,481 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:17:13,483 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:17:13,496 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:17:13,508 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:18:55,985 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 104554
+WARNING 2019-09-13 23:18:56,160 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:18:56,260 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:18:56,276 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:18:56,277 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:18:56,291 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:18:56,292 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:18:56,295 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:18:56,305 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:18:56,390 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:20:28,816 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 104554
+WARNING 2019-09-13 23:20:28,995 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:20:29,067 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:20:29,079 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:20:29,094 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:20:29,095 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:20:29,102 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+WARNING 2019-09-13 23:20:29,103 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:20:29,111 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:20:29,215 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:34:07,968 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 104554
+WARNING 2019-09-13 23:34:08,202 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:34:08,245 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+WARNING 2019-09-13 23:34:10,242 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:34:10,252 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:34:10,260 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:34:10,263 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:34:10,264 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+WARNING 2019-09-13 23:34:10,265 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:34:10,354 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:38:05,522 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 104554
+WARNING 2019-09-13 23:38:05,741 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:38:05,743 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+INFO 2019-09-13 23:38:05,756 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+WARNING 2019-09-13 23:38:07,764 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:38:07,766 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:38:07,768 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+WARNING 2019-09-13 23:38:07,771 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:38:07,779 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:38:07,818 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:44:40,174 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 103934
+WARNING 2019-09-13 23:44:40,571 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:44:40,581 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 572
+WARNING 2019-09-13 23:44:42,581 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:44:42,615 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:44:42,626 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:44:42,658 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:44:42,663 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:44:42,672 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:44:42,817 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+INFO 2019-09-13 23:45:00,860 basehttp 124 "GET /detail/6/ HTTP/1.1" 200 103934
+WARNING 2019-09-13 23:45:01,096 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:45:01,248 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 572
+WARNING 2019-09-13 23:45:03,252 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:45:03,264 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:45:03,271 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:45:03,279 base 152 Not Found: /comment/6/
+WARNING 2019-09-13 23:45:03,281 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:45:03,282 basehttp 124 "GET /comment/6/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:45:03,351 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
+WARNING 2019-09-13 23:45:28,497 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:45:29,566 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102018
+WARNING 2019-09-13 23:45:29,705 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:45:32,649 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:45:32,652 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:45:32,680 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 572
+INFO 2019-09-13 23:46:19,406 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+WARNING 2019-09-13 23:46:19,652 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:46:19,761 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:46:19,762 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:46:21,801 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:47:07,695 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 102043
+WARNING 2019-09-13 23:47:07,895 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-09-13 23:47:08,039 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:47:08,041 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+INFO 2019-09-13 23:47:10,078 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+INFO 2019-09-13 23:47:19,091 basehttp 124 "GET /detail/4/ HTTP/1.1" 200 103933
+WARNING 2019-09-13 23:47:19,212 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+INFO 2019-09-13 23:47:19,432 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 582
+WARNING 2019-09-13 23:47:21,437 base 152 Not Found: /browse_histories/
+WARNING 2019-09-13 23:47:21,466 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 18
+WARNING 2019-09-13 23:47:21,470 base 152 Not Found: /carts/simple/
+WARNING 2019-09-13 23:47:21,494 base 152 Not Found: /comment/4/
+WARNING 2019-09-13 23:47:21,497 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6494
+WARNING 2019-09-13 23:47:21,503 basehttp 124 "GET /comment/4/ HTTP/1.1" 404 6485
+INFO 2019-09-13 23:47:21,594 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 27
